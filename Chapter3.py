@@ -1,4 +1,4 @@
-__author__ = 'urlama1'
+
 # Question 1
 #Hours = int(raw_input('Enter Hours: '))
 #Rate = float(raw_input('Enter Rate: '))

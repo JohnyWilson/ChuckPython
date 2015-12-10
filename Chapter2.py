@@ -1,4 +1,4 @@
-__author__ = 'urlama1'
+
 # Question 2
 print 'Hello ' + raw_input('Enter your name: ')
 
