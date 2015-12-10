@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ChuckPython.iml" filepath="$PROJECT_DIR$/.idea/ChuckPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Chuckcode/.idea/Chuckcode.iml" filepath="$PROJECT_DIR$/../Chuckcode/.idea/Chuckcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ClaimsTransformation/.idea/ClaimsTransformation.iml" filepath="$PROJECT_DIR$/../ClaimsTransformation/.idea/ClaimsTransformation.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ClouderaProject/.idea/ClouderaProject.iml" filepath="$PROJECT_DIR$/../ClouderaProject/.idea/ClouderaProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../History/.idea/History.iml" filepath="$PROJECT_DIR$/../History/.idea/History.iml" />
