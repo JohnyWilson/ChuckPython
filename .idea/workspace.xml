@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/../ClouderaProject/YelpDataAnalysis.py" line="6" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4f2ad1e-6e1e-4a90-a1d3-0aeb0d40443c" name="Default" comment="" />
+    <list default="true" id="f4f2ad1e-6e1e-4a90-a1d3-0aeb0d40443c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Lesson2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -502,7 +504,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449725900236</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added FizzBuzz program">
+      <created>1449726178882</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1449726178882</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
