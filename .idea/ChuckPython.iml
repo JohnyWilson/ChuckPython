@@ -6,7 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ClouderaProject" />
     <orderEntry type="module" module-name="ClaimsTransformation" />
-    <orderEntry type="module" module-name="History" />
     <orderEntry type="module" module-name="Chuckcode" />
   </component>
 </module>
