@@ -5,9 +5,9 @@
 # Once you have accumulated the counts for each hour, print out the counts, sorted by hour as shown below.
 
 name = raw_input("Enter file:")
-if len(name) < 1 : name = "mbox-short.txt"
+if len(name) < 1: name = "Data/mbox-short.txt"
 handle = open(name).readlines()
-#handle = open("mbox-short.txt").readlines()
+# handle = open("Data/mbox-short.txt").readlines()
 
 TimeList = list()
 Timecount = {}

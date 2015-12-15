@@ -7,10 +7,11 @@
 # name = raw_input("Enter file:")
 # if len(name) < 1 : name = "mbox-short.txt"
 
-name = "mbox-short.txt"
+name = "Data/mbox-short.txt"
 handle = open(name)
 sender = dict()
 MaxUser = ' '
+MaxCount = 0
 
 for line in handle:
     if line.startswith("From "):
@@ -18,8 +19,6 @@ for line in handle:
         sender[FromAdr] = sender.get(FromAdr,0) + 1
        # if FromAdr in sender.keys():             sender[FromAdr] += 1
        # else:               sender[FromAdr] = 1
-
-
 
 for adr, count in sender.items():
     if count == max(sender.values()):

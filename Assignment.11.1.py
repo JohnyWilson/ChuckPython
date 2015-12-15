@@ -39,7 +39,7 @@
 
 import re
 
-file = 'regex_sum_172345.txt'
+file = 'Data/regex_sum_172345.txt'
 
 summ = 0
 item = 0

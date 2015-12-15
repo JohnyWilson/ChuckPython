@@ -5,8 +5,8 @@
 # Hint: make sure not to include the lines that start with 'From:'.
 # You can download the sample data at http://www.pythonlearn.com/code/mbox-short.txt
 
-fname = "mbox-short.txt" #raw_input("Enter file name: ")
-if len(fname) < 1 : fname = "mbox-short.txt"
+fname = "Data/mbox-short.txt"
+if len(fname) < 1: fname = "Data/mbox-short.txt"  # raw_input("Enter file name: ")
 
 fh = open(fname)
 count = 0
